@@ -10,6 +10,6 @@ KODI_SOURCE_DIR=/home/kodi/kodi-source
 # KODI_INSTALL_DIR=/home/kodi/kodi-bin-leia
 
 # Kodi stable version using Python 3.
-KODI_SOURCE_TAG=19.1-Matrix
+KODI_SOURCE_TAG=9b8d65acaaa26295e06342cb4c03692859c60224
 KODI_BUILD_DIR=/home/kodi/kodi-build
 KODI_INSTALL_DIR=/home/kodi/kodi-bin
